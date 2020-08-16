@@ -13,10 +13,10 @@ module.exports = {
         sidebar: {
             '/guide/': [
                 '',
+                'guide'
             ],
             '/': [
-                '',
-                'about'
+                ''
             ]
         }
     }
