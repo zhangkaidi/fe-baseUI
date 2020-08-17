@@ -1,0 +1,1 @@
+<img :src="$withBase('/imgs/error.jpg')" width='300'  alt="error">

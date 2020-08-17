@@ -2,7 +2,7 @@
 home: true
 heroImage: ./imgs/logo.jpg
 actionText: 老板里边请 →
-actionLink: /guide/
+actionLink: /docs/Cartain/
 features:
 - title: 增长
   details: 有质量的增长

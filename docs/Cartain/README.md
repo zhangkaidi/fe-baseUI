@@ -1,0 +1,1 @@
+<img :src="$withBase('/imgs/curtain.jpg')" width='300'  alt="cartain">
