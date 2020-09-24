@@ -22,7 +22,7 @@ module.exports = {
                 ['/docs/Feed/', 'Feed流'],
                 ['/docs/FloatIcon/', '右下角浮框'],
                 ['/docs/LoadMore/', '上拉加载'],
-                ['/docs/GoTop/', '回到顶部']
+                ['/docs/GoTop/', '回到顶部']    
             ]
         }, {
             title: '组件指南【待发布】',
