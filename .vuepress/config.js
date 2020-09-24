@@ -16,17 +16,18 @@ module.exports = {
             children: [
                 ['/docs/Cartain/', '弹层组件'],
                 ['/docs/Toast/', 'Toast组件'],
-                ['/docs/Error/', '异常页面']
+                ['/docs/Error/', '异常页面'],
+                ['/docs/Tabs/','Tabs组件'],
+                ['/docs/GoTop/','回到顶部'],
+                ['/docs/Marquee/','新闻通知'],
             ]
         }, {
             title: '组件指南【待发布】',
             collapsable: true,
             children: [
-                ['/docs/Marquee/','通知'],
                 ['/docs/Feed/','Feed流'],
                 ['/docs/LoadMore/','上拉加载'],
                 ['/docs/Refresh/','下拉刷新'],
-                ['/docs/GoTop/','回到顶部'],
                 ['/docs/FloatIcon/','右下角浮框']
             ]
         }]
